@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of the following is not typically considered a Python Integrated Development Environment (IDE)?",
+        "options": [
+            "PyCharm",
+            "VS Code",
+            "Jupyter Notebook",
+            "Microsoft Word"
+        ],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "Which command is typically used to start the Python interactive interpreter?",
+        "options": [
+            "run python",
+            "python",
+            "execute py",
+            "start interpreter"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "If you have both Python 2 and Python 3 installed on your computer, which command typically starts Python 3?",
+        "options": [
+            "python2",
+            "python",
+            "python3",
+            "py"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "In VS Code, which shortcut or menu item is typically used to run a Python file?",
+        "options": [
+            "Ctrl+S (Save)",
+            "Ctrl+C (Copy)",
+            "Right-click on file -> Run Python File in Terminal",
+            "Ctrl+Z (Undo)"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of the following statements about Jupyter Notebook is correct?",
+        "options": [
+            "It is a plain text editor.",
+            "It can only run Python code.",
+            "It supports integrating code, text, and visual output in a single document.",
+            "It requires compilation to run code."
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which tool can help you manage and install third-party libraries after initially installing Python?",
+        "options": [
+            "npm",
+            "pip",
+            "apt-get",
+            "brew"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which company developed the PyCharm Python IDE?",
+        "options": [
+            "Google",
+            "Microsoft",
+            "JetBrains",
+            "Apple"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "When installing Python on a Windows system, which option is typically recommended to check in order to conveniently use the `python` command in the command line?",
+        "options": [
+            "Install for all users",
+            "Add Python to PATH",
+            "Customize installation",
+            "Install documentation"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following is a major advantage of the Anaconda distribution?",
+        "options": [
+            "Compact size and quick installation",
+            "Comes with many scientific computing and data analysis libraries and environment management tools",
+            "Supports only Python 2",
+            "It is a lightweight code editor"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "When writing Python code using any IDE or text editor, what file extension is recommended when saving the file?",
+        "options": [
+            ".txt",
+            ".doc",
+            ".py",
+            ".html"
+        ],
+        "correct_answer_index": 2
+    }
+]
