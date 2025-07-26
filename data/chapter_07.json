@@ -1,0 +1,137 @@
+[
+    {
+        "question": "What is a method in Python?",
+        "options": [
+            "A function that belongs to a class or object",
+            "A built-in operator",
+            "A type of variable",
+            "A keyword used for loops"
+        ],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the `append()` method do in a list?",
+        "options": [
+            "Adds an item to the end of the list",
+            "Sorts the list",
+            "Removes the last item",
+            "Creates a copy of the list"
+        ],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the result of `'hello'.upper()`?",
+        "options": ["hello", "Hello", "HELLO", "error"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which method returns the number of times a value appears in a list?",
+        "options": ["index()", "count()", "find()", "repeat()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which string method removes whitespace from the beginning and end of a string?",
+        "options": ["remove()", "clean()", "strip()", "cut()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does the `split()` method return?",
+        "options": [
+            "A tuple of characters",
+            "An integer",
+            "A list of substrings",
+            "A single string"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does `'Python'.lower()` return?",
+        "options": ["python", "PYTHON", "Python", "None"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which method adds multiple items to the end of a list?",
+        "options": ["append()", "extend()", "insert()", "add()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the result of `[3, 1, 2].sort()`?",
+        "options": [
+            "[3, 1, 2]",
+            "[1, 2, 3]",
+            "None",
+            "Raises error"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which list method removes a specific value from the list?",
+        "options": ["pop()", "delete()", "remove()", "discard()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which method returns the index of the first occurrence of an item in a list?",
+        "options": ["locate()", "index()", "find()", "position()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What does the `join()` method do?",
+        "options": [
+            "Adds two strings",
+            "Concatenates a list of strings into one string",
+            "Splits a string",
+            "Finds a character"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of `'abc'.replace('b', 'x')`?",
+        "options": ["axc", "abc", "abx", "xbc"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the `pop()` method return?",
+        "options": [
+            "The index of the last item",
+            "The last item and removes it",
+            "The length of the list",
+            "A sorted list"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which method adds an item at a specific index in a list?",
+        "options": ["insert()", "extend()", "append()", "push()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does `'abc123'.isalnum()` return?",
+        "options": ["True", "False", "None", "Error"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which string method checks if a string starts with a specific substring?",
+        "options": ["startswith()", "begins()", "starts()", "check()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the result of `len('hello'.split())`?",
+        "options": ["1", "5", "0", "Error"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the method `copy()` do in a list?",
+        "options": [
+            "Deletes the list",
+            "Creates a shallow copy of the list",
+            "Sorts the list",
+            "Reverses the list"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which method would you use to check whether a string is all lowercase?",
+        "options": ["islower()", "isalpha()", "lowercase()", "checklower()"],
+        "correct_answer_index": 0
+    }
+]

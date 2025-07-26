@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What is a module in Python?",
+        "options": [
+            "A built-in function",
+            "A separate file containing Python definitions and code",
+            "A folder of files",
+            "An external database"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which keyword is used to import a module?",
+        "options": ["include", "import", "require", "module"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you import only the `sqrt` function from the `math` module?",
+        "options": [
+            "import math.sqrt",
+            "from math import sqrt",
+            "include sqrt from math",
+            "use math.sqrt"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What does `import random` allow you to do?",
+        "options": [
+            "Create random variables",
+            "Use random number functions",
+            "Shuffle files",
+            "Connect to a database"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which module is commonly used to interact with the operating system?",
+        "options": ["os", "sys", "math", "random"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "How can you list all names defined in a module?",
+        "options": ["dir()", "list()", "names()", "globals()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What will `import math` allow you to do?",
+        "options": ["Use math.pi", "Use sin(), cos()", "Use sqrt()", "All of the above"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What happens if you import the same module twice?",
+        "options": [
+            "It causes an error",
+            "It reloads the module",
+            "Python ignores repeated imports",
+            "The module is removed"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which statement imports a module and gives it an alias?",
+        "options": [
+            "import math as m",
+            "include math as m",
+            "import math -> m",
+            "alias math = m"
+        ],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the file extension for a Python module?",
+        "options": [".module", ".py", ".txt", ".mod"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Where does Python look for imported modules?",
+        "options": [
+            "Current directory only",
+            "Python standard library",
+            "Paths in sys.path",
+            "Only installed packages"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which module provides functions to manipulate the Python runtime environment?",
+        "options": ["sys", "os", "random", "math"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which function from the `random` module returns a number between 0 and 1?",
+        "options": ["random()", "rand()", "randint()", "uniform()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the purpose of `__name__ == '__main__'` in a Python script?",
+        "options": [
+            "It checks the version of Python",
+            "It imports all modules",
+            "It runs code only when the file is executed directly",
+            "It defines a class"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How do you access the `argv` list from the command line?",
+        "options": ["import os.argv", "from os import argv", "import sys; sys.argv", "read.argv()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which module helps you create and remove directories?",
+        "options": ["sys", "os", "math", "random"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function is used to get the current working directory?",
+        "options": ["os.getcwd()", "sys.cwd()", "getdir()", "os.directory()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "How do you create your own module in Python?",
+        "options": [
+            "By defining a class",
+            "By writing functions and saving in a `.py` file",
+            "By importing Python libraries",
+            "By declaring a package"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function pauses the program and waits for user input?",
+        "options": ["input()", "pause()", "get()", "read()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the `from module import *` statement do?",
+        "options": [
+            "Imports all public names from a module",
+            "Imports private functions only",
+            "Imports the module name",
+            "Creates a backup of a module"
+        ],
+        "correct_answer_index": 0
+    }
+]

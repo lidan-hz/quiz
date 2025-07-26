@@ -1,0 +1,142 @@
+[
+    {
+        "question": "What is the main purpose of Object-Oriented Programming?",
+        "options": ["Faster execution", "Better user interface", "Organize code using objects", "Avoid using functions"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which keyword is used to define a class in Python?",
+        "options": ["object", "def", "class", "type"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How do you define a constructor in a Python class?",
+        "options": ["__start__", "__constructor__", "__init__", "__new__"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is `self` in a class method?",
+        "options": [
+            "The class name",
+            "A keyword to create classes",
+            "A reference to the current instance",
+            "A special type of method"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How do you create an instance of a class `Car`?",
+        "options": ["Car.create()", "Car()", "new Car()", "Car.init()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is encapsulation in OOP?",
+        "options": [
+            "Inheriting from multiple classes",
+            "Wrapping data and methods into a class",
+            "Using global variables",
+            "Importing modules"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which keyword is used for inheritance in Python?",
+        "options": ["inherits", "extends", "super", "class Child(Base):"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What does `__str__()` method do?",
+        "options": [
+            "Sorts a class object",
+            "Returns a string representation of an object",
+            "Returns the type of the object",
+            "Initializes the object"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What will `isinstance(obj, ClassName)` return?",
+        "options": ["ClassName", "True or False", "ID of object", "Always True"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of: `class A: pass`?",
+        "options": [
+            "Creates a class with default attributes",
+            "Syntax Error",
+            "Defines an empty class",
+            "Creates an abstract class",
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How do you access an attribute `name` from an object `p`?",
+        "options": ["p.get('name')", "p['name']", "p.name", "get(p, 'name')"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which method is called when an object is created?",
+        "options": ["__start__", "__init__", "__create__", "__object__"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is inheritance?",
+        "options": [
+            "Writing multiple classes",
+            "One class getting properties of another",
+            "Using private attributes",
+            "Combining multiple functions"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following creates a private variable in Python?",
+        "options": ["var", "_var", "__var", "private var"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is polymorphism in Python?",
+        "options": [
+            "Having multiple classes",
+            "Having multiple variables",
+            "Same method name behaving differently",
+            "Using multiple return types"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does `super()` do in a class?",
+        "options": [
+            "Skips the constructor",
+            "Calls a method from child class",
+            "Calls a method from parent class",
+            "Returns the class name"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of the following can be used to define class attributes?",
+        "options": ["Inside `__init__` only", "Outside any method", "Only in global scope", "Inside main()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of these best describes a class?",
+        "options": [
+            "A block of reusable code",
+            "A template for creating objects",
+            "A special variable",
+            "A function library"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of `type(object)`?",
+        "options": ["'class'", "<class 'type'>", "object", "<class 'object'>"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the default access modifier for attributes and methods in Python?",
+        "options": ["public", "private", "protected", "readonly"],
+        "correct_answer_index": 0
+    }
+]

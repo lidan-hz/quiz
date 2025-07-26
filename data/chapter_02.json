@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of the following is a valid way to assign the value 5 to a variable in Python?",
+        "options": ["int x = 5", "x := 5", "x == 5", "x = 5"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What will be the output of: print(type(10))?",
+        "options": ["<class 'str'>", "<class 'float'>", "<class 'int'>", "<class 'bool'>"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of the following is the correct way to write a comment in Python?",
+        "options": ["// comment", "# comment", "/* comment */", "<!-- comment -->"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "define", "def", "fun"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the result of: print(3 + 2 * 2)?",
+        "options": ["10", "7", "9", "8"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you create a new line in a string?",
+        "options": ["\\n", "\\r", "//", "<br>"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which of the following is NOT a valid variable name?",
+        "options": ["_name", "2value", "value2", "my_var"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [".pt", ".python", ".py", ".pyt"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How would you print the string 'Hello World' in Python?",
+        "options": ["print('Hello World')", "echo 'Hello World'", "printf('Hello World')", "Console.WriteLine('Hello World')"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What will be the output of: print(bool(0))?",
+        "options": ["True", "False", "0", "None"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which data type is used to represent text in Python?",
+        "options": ["int", "float", "str", "bool"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which operator is used for exponentiation (power) in Python?",
+        "options": ["^", "**", "^^", "//"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following functions converts a string to an integer?",
+        "options": ["int()", "str()", "float()", "bool()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What will be the output of: print('3' + '4')?",
+        "options": ["7", "34", "12", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the default value of a boolean variable if not initialized in Python?",
+        "options": ["None", "False", "True", "Zero"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which function is used to take user input in Python?",
+        "options": ["scan()", "input()", "read()", "get()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you start a code block in Python?",
+        "options": ["Using { }", "Using ( )", "Using indentation", "Using begin...end"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which keyword is used to indicate the end of a block in Python?",
+        "options": ["end", "done", "stop", "Python uses indentation instead"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What will be the output of: print(10 // 3)?",
+        "options": ["3.333", "3", "3.0", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which symbol is used to assign a value to a variable?",
+        "options": ["==", ":=", "=", "=>"],
+        "correct_answer_index": 2
+    }
+]

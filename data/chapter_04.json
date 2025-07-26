@@ -1,0 +1,107 @@
+[
+    {
+        "question": "Which keyword is used to make a decision in Python?",
+        "options": ["decide", "if", "switch", "check"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the purpose of the 'else' block in an if-else structure?",
+        "options": ["To repeat the block", "To end the program", "To execute code when condition is False", "To raise an error"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which keyword is used for multiple conditional branches?",
+        "options": ["elseif", "elif", "else if", "when"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of: if 5 > 3: print('Yes')?",
+        "options": ["Yes", "No", "Error", "Nothing"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which loop is best used when the number of iterations is unknown?",
+        "options": ["for", "while", "loop", "repeat"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of: for i in range(3): print(i)?",
+        "options": ["1 2 3", "0 1 2", "0 1 2 3", "1 2"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What does the 'break' statement do in a loop?",
+        "options": ["Skips the current iteration", "Stops the loop completely", "Restarts the loop", "Ignores the condition"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What does the 'continue' statement do in a loop?",
+        "options": ["Ends the loop", "Skips the rest of the code and continues with next iteration", "Skips to else", "Repeats the loop twice"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following statements is used as a placeholder in Python?",
+        "options": ["empty", "null", "pass", "void"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the result of: while False: print('Hi')?",
+        "options": ["Prints 'Hi' once", "Infinite loop", "Error", "Nothing happens"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What does the 'range(5)' function generate?",
+        "options": ["[0, 1, 2, 3, 4]", "[1, 2, 3, 4, 5]", "[0, 1, 2, 3, 4, 5]", "[5, 4, 3, 2, 1]"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which control structure is used to repeat a block of code for a specific number of times?",
+        "options": ["while", "for", "repeat", "if"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How can you loop through the elements of a list?",
+        "options": ["for i to list", "loop list", "for i in list", "iterate list"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which statement is optional in an if-elif-else block?",
+        "options": ["if", "elif", "else", "All are required"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What will be the output of: for i in range(1, 4): print(i)?",
+        "options": ["1 2 3 4", "0 1 2 3", "1 2 3", "1 2 3 4 5"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of the following would result in an infinite loop?",
+        "options": [
+            "for i in range(5): print(i)",
+            "while True: print('Hi')",
+            "while False: print('No')",
+            "for i in []: print(i)"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What happens if indentation is not used properly in a Python if statement?",
+        "options": ["Nothing", "Python fixes it", "SyntaxError", "It skips the block"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which loop structure always executes at least once in some other languages, but not necessarily in Python?",
+        "options": ["do-while", "for", "while", "repeat-until"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the default start value of range(n) in Python?",
+        "options": ["1", "n", "0", "undefined"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the correct syntax for an if statement in Python?",
+        "options": ["if x > y then:", "if (x > y)", "if x > y:", "if x > y"],
+        "correct_answer_index": 2
+    }
+]

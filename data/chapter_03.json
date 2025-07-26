@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the result of 2 + 3 * 4 in Python?",
+        "options": ["20", "14", "24", "10"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which operator is used to compare two values for equality?",
+        "options": ["=", "==", "!=", "==="],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following is a logical operator in Python?",
+        "options": ["and", "plus", "also", "both"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the '//' operator do?",
+        "options": ["Modulus", "Exponentiation", "Floating point division", "Floor division"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "What is the result of 10 % 3?",
+        "options": ["1", "0", "3", "10"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which operator would you use to raise 2 to the power of 3?",
+        "options": ["2^3", "2**3", "2^^3", "2%%3"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of these operators is used for logical NOT in Python?",
+        "options": ["~", "!", "not", "none"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the result of: 4 == 4.0?",
+        "options": ["True", "False", "Error", "None"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which of these is the bitwise AND operator?",
+        "options": ["&&", "and", "&", "AND"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of these will return True: (5 > 3 and 2 < 4)?",
+        "options": ["True", "False", "None", "SyntaxError"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the ‘!=’ operator do?",
+        "options": ["Assign value", "Not equal to", "Not assign", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of these operators has the highest precedence?",
+        "options": ["+", "*", "==", "and"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the result of: not True or False?",
+        "options": ["True", "False", "None", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of: True and False?",
+        "options": ["True", "False", "Error", "None"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following is an assignment operator?",
+        "options": ["==", "=", "!=", ">="],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of 3 ** 2?",
+        "options": ["6", "9", "8", "5"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of these is the bitwise OR operator in Python?",
+        "options": ["|", "||", "or", "OR"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which operator is used to check if two variables reference the same object?",
+        "options": ["==", "equals", "is", "same"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the result of: 10 >= 10?",
+        "options": ["True", "False", "Error", "None"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which operator would you use to combine conditional expressions?",
+        "options": ["or", "||", "&", "^"],
+        "correct_answer_index": 0
+    }
+]

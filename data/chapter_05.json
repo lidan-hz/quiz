@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Which of the following is a mutable sequence type in Python?",
+        "options": ["str", "tuple", "list", "range"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the output of: len([1, 2, 3])?",
+        "options": ["2", "3", "4", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you access the first element of a list `my_list`?",
+        "options": ["my_list(0)", "my_list[1]", "my_list[0]", "my_list.first"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the output of: 'hello'[1]?",
+        "options": ["h", "e", "l", "o"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the result of: [1, 2] + [3, 4]?",
+        "options": ["[1, 2, 3, 4]", "[4, 6]", "[1, 2, [3, 4]]", "Error"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the output of: (1, 2, 3)[-1]?",
+        "options": ["1", "2", "3", "Error"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does the method `.append()` do to a list?",
+        "options": ["Deletes last item", "Adds an item at the end", "Sorts the list", "Clears the list"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which keyword is used to iterate over a sequence?",
+        "options": ["repeat", "for", "loop", "next"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following is an immutable sequence type?",
+        "options": ["list", "dict", "tuple", "set"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does slicing [1:3] return from the list [0,1,2,3,4]?",
+        "options": ["[1,2]", "[1,2,3]", "[2,3]", "[0,1,2]"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which function converts a string into a list of characters?",
+        "options": ["list()", "split()", "str()", "tuple()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does the expression `'a' in ['a', 'b', 'c']` evaluate to?",
+        "options": ["False", "None", "True", "Error"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the output of: list('abc')?",
+        "options": ["['abc']", "['a', 'b', 'c']", "['a b c']", "Error"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you create an empty tuple?",
+        "options": ["()", "[]", "{}", "empty()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which of the following creates a list with 5 zeros?",
+        "options": ["[0]*5", "[0,0,0,0,0]", "list(0,0,0,0,0)", "Both A and B"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "Which statement will raise an error?",
+        "options": [
+            "my_list = [1, 2, 3]; my_list[0] = 10",
+            "my_tuple = (1, 2, 3); my_tuple[0] = 10",
+            "'abc'[1]",
+            "len((1, 2))"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the result of: 'abc' + '123'?",
+        "options": ["abc123", "['abc', '123']", "abc 123", "Error"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which of the following methods removes an item from a list by index?",
+        "options": ["remove()", "delete()", "pop()", "cut()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the output of: list(range(3))?",
+        "options": ["[1, 2, 3]", "[0, 1, 2]", "[0, 1, 2, 3]", "[3, 2, 1]"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which of the following statements is true about strings in Python?",
+        "options": [
+            "Strings are mutable",
+            "Strings can be changed in-place",
+            "Strings support indexing and slicing",
+            "Strings are created with square brackets"
+        ],
+        "correct_answer_index": 2
+    }
+]

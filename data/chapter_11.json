@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Which function is used to open a file in Python?",
+        "options": ["file()", "read()", "open()", "with()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which mode opens a file for reading?",
+        "options": ["'w'", "'r'", "'a'", "'x'"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function reads the entire content of a file into a string?",
+        "options": ["file.readall()", "f.read()", "f.load()", "f.get()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which keyword is used to ensure a file is properly closed after use?",
+        "options": ["try", "except", "finally", "with"],
+        "correct_answer_index": 3
+    },
+    {
+        "question": "Which method is used to split a string into a list?",
+        "options": ["break()", "split()", "cut()", "tokenize()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function converts a string into an integer?",
+        "options": ["int()", "str()", "float()", "bool()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which built-in function returns the maximum value in a list?",
+        "options": ["top()", "max()", "maximum()", "largest()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function returns the number of items in a list?",
+        "options": ["count()", "len()", "size()", "length()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What does `f.readline()` do?",
+        "options": [
+            "Reads the whole file",
+            "Reads one line from the file",
+            "Reads and splits a line",
+            "Reads in reverse"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which function rounds a float to the nearest whole number?",
+        "options": ["int()", "truncate()", "round()", "floor()"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which module is commonly used to process CSV data?",
+        "options": ["os", "json", "csv", "math"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of these will convert a list of strings into a single string?",
+        "options": ["split()", "join()", "combine()", "merge()"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of `sum([1, 2, 3])`?",
+        "options": ["6", "[1, 2, 3]", "Error", "3"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the correct way to write to a file?",
+        "options": [
+            "f.write('text')",
+            "f.read('text')",
+            "write(f, 'text')",
+            "print(f, 'text')"
+        ],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which statement correctly opens a file for appending data?",
+        "options": [
+            "open('file.txt', 'r')",
+            "open('file.txt', 'w')",
+            "open('file.txt', 'a')",
+            "open('file.txt', 'x')"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does `json.loads()` do?",
+        "options": [
+            "Writes a Python object to JSON file",
+            "Loads a JSON file from disk",
+            "Converts JSON string to Python object",
+            "Converts file to CSV"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the purpose of using `strip()` when reading file lines?",
+        "options": [
+            "To split the line into words",
+            "To convert the line to lowercase",
+            "To remove whitespace characters like \\n",
+            "To skip empty lines"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What will `data = f.readlines()` return?",
+        "options": [
+            "A list of characters",
+            "The number of lines",
+            "A list of lines in the file",
+            "Only the first line"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which function is used to process all elements of a list into a new list?",
+        "options": ["map()", "zip()", "set()", "sum()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What does `enumerate(['a', 'b'])` return?",
+        "options": [
+            "[(1, 'a'), (2, 'b')]",
+            "['a', 'b']",
+            "[(0, 'a'), (1, 'b')]",
+            "[0: 'a', 1: 'b']"
+        ],
+        "correct_answer_index": 2
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Which keyword is used to handle exceptions in Python?",
+        "options": ["catch", "handle", "except", "error"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the purpose of the `try` block in Python?",
+        "options": [
+            "To skip a block of code",
+            "To run code that might raise an exception",
+            "To raise an exception manually",
+            "To always execute code"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "Which block is always executed after try-except, whether an exception occurs or not?",
+        "options": ["except", "raise", "finally", "end"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What type of error is raised by 1 / 0?",
+        "options": ["ValueError", "TypeError", "ZeroDivisionError", "SyntaxError"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What does the `raise` keyword do?",
+        "options": [
+            "Silences an exception",
+            "Continues the program",
+            "Manually triggers an exception",
+            "Ends the program"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What is the output of `int('abc')`?",
+        "options": ["0", "'abc'", "Raises ValueError", "None"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which of these is NOT a built-in exception in Python?",
+        "options": ["KeyError", "IndexError", "NullPointerError", "TypeError"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which block is optional in a try-except-finally structure?",
+        "options": ["try", "except", "finally", "None"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "How can you handle multiple types of exceptions?",
+        "options": [
+            "Using multiple try blocks",
+            "Using multiple except blocks",
+            "Using one try per line",
+            "Only one type allowed"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the purpose of the `else` block in exception handling?",
+        "options": [
+            "To execute if an exception occurs",
+            "To execute if no exception occurs",
+            "To catch syntax errors",
+            "To skip the finally block"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What type of error will accessing an undefined variable raise?",
+        "options": ["KeyError", "NameError", "TypeError", "ValueError"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What exception is raised by accessing a list index that doesn't exist?",
+        "options": ["IndexError", "KeyError", "ValueError", "TypeError"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "Which exception is raised when a dictionary key is not found?",
+        "options": ["ValueError", "KeyError", "IndexError", "TypeError"],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "How do you catch all exceptions?",
+        "options": ["except Exception:", "except All:", "except *:", "catch()"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What is the best practice when writing try-except blocks?",
+        "options": [
+            "Use broad exceptions",
+            "Never use finally",
+            "Catch specific exceptions",
+            "Avoid using except"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "What will happen if no exception occurs in try and there is a finally block?",
+        "options": [
+            "Finally block is skipped",
+            "Finally runs anyway",
+            "Program ends early",
+            "It causes an error"
+        ],
+        "correct_answer_index": 1
+    },
+    {
+        "question": "What is the output of: `try: print(1/0) except: print('Error')`?",
+        "options": ["1", "0", "Error", "Zero"],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Which exception is raised when an operation is performed on the wrong type?",
+        "options": ["TypeError", "ValueError", "IndexError", "NameError"],
+        "correct_answer_index": 0
+    },
+    {
+        "question": "What will happen if no except block matches the error?",
+        "options": [
+            "It is ignored",
+            "Program continues silently",
+            "Program crashes",
+            "It returns None"
+        ],
+        "correct_answer_index": 2
+    },
+    {
+        "question": "Can `try` block be used without `except`, if `finally` is present?",
+        "options": ["No", "Only in Python 2", "Yes", "Only with raise"],
+        "correct_answer_index": 2
+    }
+]
